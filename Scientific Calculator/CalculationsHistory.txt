@@ -1,0 +1,8 @@
+First Input Number 220.0 Second input Number 1.26
+Answer 277.2
+Entered Input2222.0
+Answer -0.7795793594428289
+First Input Number 7.9 Second input Number 9.9
+ Answer 17.8First Input Number 22.0 Second input Number 22.0
+ Answer 44.0First Input Number 22.0 Second input Number 22.0
+ Answer 44.0
